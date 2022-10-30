@@ -1,19 +1,15 @@
 {
-  "name": "library",
+  "name": "libary_week3",
   "version": "1.0.0",
-  "description": "library desc",
+  "description": "task week3",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "task"
-  ],
-  "author": "Yanka",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^2.0.0",
-    "@openzeppelin/hardhat-upgrades": "^1.21.0",
     "hardhat": "^2.12.0"
   },
   "dependencies": {
