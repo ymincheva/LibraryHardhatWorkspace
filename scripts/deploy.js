@@ -22,7 +22,7 @@ async function main() {
   process.exitCode = 1;
 });
 
-//const ALCHEMY_API_KEY = "TOh9OCIQMa1Xm_LRKPIE617_AD_PXpta";
+//const ALCHEMY_API_KEY = "g_pw19NjfqwAY_R-r4l3-smaQFMNYi4I";
 
 // Replace this private key with your Goerli account private key
 // To export your private key from Metamask, open Metamask and
